@@ -15,6 +15,11 @@ body,
   padding: 0;
 }
 
+html,
+body {
+  background: #f4f6f8;
+}
+
 body {
   min-height: 100vh;
 }
